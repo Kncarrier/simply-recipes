@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../components/layout"
 
-const ContactPage = () => (
+const TagsPage = () => (
   <Layout>
-    <h1>Contact Page</h1>
+    <h1>Tags Page</h1>
   </Layout>
 )
 
-export default ContactPage
+export default TagsPage
