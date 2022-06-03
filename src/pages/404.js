@@ -3,7 +3,10 @@ import Layout from "../components/layout"
 
 const FourOhFourPage = () => (
   <Layout>
-    <div>404 - Page not found</div>
+    <section className="error-page">
+      <h1>404</h1>
+      <h3>Page not found</h3>
+    </section>
   </Layout>
 )
 
