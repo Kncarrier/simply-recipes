@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import { FaAlignJustify } from "react-icons/fa"
+
 import logo from "../assets/images/logo.svg"
 
 const Navbar = () => {
